@@ -97,10 +97,11 @@ Here is the updated part you requested:
 
 ---
 
-Here’s the updated part with the **Game** section added:
+## Video
 
----
+You can watch the game video from [this Google Drive link](https://drive.google.com/drive/folders/1nPo-tdO457XSWYrkx3GjzOkl3Ll-IKwH?usp=sharing).
 
 ## Game
 
-You can play and download the game from [this Google Drive link](https://drive.google.com/drive/folders/1KvzQAnGT_xwU8syYAvbFRdV1KJmofizd?usp=sharing).
+You can download the game for from [this Google Drive link](https://drive.google.com/drive/folders/1KvzQAnGT_xwU8syYAvbFRdV1KJmofizd?usp=sharing).
+Or you can play it from here too both on mobile and PC [WebGL link](https://naumanarif.itch.io/cyber-bloom)
