@@ -85,7 +85,6 @@ Environmental storytelling reinforces this journey—flowers bloom as Ayra passe
 
 These influences helped shape the tone and mechanics while keeping the game's theme original and cohesive.
 
-Here is the updated part you requested:
 
 ---
 
