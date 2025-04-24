@@ -94,3 +94,13 @@ Here is the updated part you requested:
 - **Unity:** Game engine used for development  
 - **8bit Painter:** Used to create pixelated assets and sprites  
 - **ElevenLabs:** Used to generate audio and voice narration
+
+---
+
+Here’s the updated part with the **Game** section added:
+
+---
+
+## Game
+
+You can play and download the game from [this Google Drive link](https://drive.google.com/drive/folders/1KvzQAnGT_xwU8syYAvbFRdV1KJmofizd?usp=sharing).
