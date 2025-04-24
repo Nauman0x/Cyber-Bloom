@@ -19,7 +19,7 @@ Cyber Bloom: Ayra’s Quest is a 2D retro-style pixel art adventure set in a wor
 Players control Ayra through:
 
 - Exploration: Move across diverse pixel art environments  
-- Combat: Use magical scorns to defeat cyber enemies  
+- Combat: Use Bullets to defeat cyber enemies  
 - Collection: Gather Orbs (for health) and stars (for ammo)  
 - Puzzle Solving: Answer riddles or interact with objects to progress  
 - Boss Battles: Confront powerful enemies at the end of each level
