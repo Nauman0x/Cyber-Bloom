@@ -84,3 +84,13 @@ Environmental storytelling reinforces this journey—flowers bloom as Ayra passe
 - Hollow Knight: Enemy design and boss mechanics
 
 These influences helped shape the tone and mechanics while keeping the game's theme original and cohesive.
+
+Here is the updated part you requested:
+
+---
+
+## Tools and Software Used
+
+- **Unity:** Game engine used for development  
+- **8bit Painter:** Used to create pixelated assets and sprites  
+- **ElevenLabs:** Used to generate audio and voice narration
