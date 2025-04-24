@@ -103,5 +103,5 @@ You can watch the game video from [this Google Drive link](https://drive.google.
 
 ## Game
 
-You can download the game for from [this Google Drive link](https://drive.google.com/drive/folders/1KvzQAnGT_xwU8syYAvbFRdV1KJmofizd?usp=sharing).
+You can download the game from [this Google Drive link](https://drive.google.com/drive/folders/1KvzQAnGT_xwU8syYAvbFRdV1KJmofizd?usp=sharing).
 Or you can play it from here too both on mobile and PC [WebGL link](https://naumanarif.itch.io/cyber-bloom)
